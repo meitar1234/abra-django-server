@@ -1,1 +1,1 @@
-web: gunicorn abra.project.wsgi
+web: gunicorn project.wsgi.application
